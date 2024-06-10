@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down": "magicmod:block/magic_block1",
+    "up": "magicmod:block/magic_block1",
+    "north": "magicmod:block/magic_block1",
+    "south": "magicmod:block/magic_block1",
+    "west": "magicmod:block/magic_block1",
+    "east": "magicmod:block/magic_block1"
+  }
+}
